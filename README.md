@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @NimithaArumalla
+- 👀 I’m interested in software development
+- 💯 I'm proficient in python ,sql and java fullstack.Along with these i learnt frameworks like Flask,Django, bootstrap 
+- 🌱 I’m currently pursuing final year of bachelors degree in computer science and engineering with 8.8 cgpa.
+- 📫 mail id: nimithaarumalla@gmail.com
+- 😄 Pronouns: she/Her
